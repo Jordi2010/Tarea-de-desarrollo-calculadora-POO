@@ -1,0 +1,18 @@
+/* Tarea de desarrollo.
+   Asignatura: Programación orientada a objetos I.
+   Estudiante: Jordi Haziel Amaya Martínez. */
+
+        a,ul{
+            text-decoration: none;
+            color:black;
+            font-weight: bold;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 25px;
+        }
+        a:hover{
+            color:chocolate;
+        }
+        ul,li{
+            list-style: none;
+            display: inline;
+        }
